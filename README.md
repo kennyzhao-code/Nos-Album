@@ -2,6 +2,8 @@
 
 > Expo Go mobile app by Carl Wang and Kenny Zhao built with the objective to re-define the photo album for UofTHacks XI
 
+Original [Repo](https://github.com/UofTHacks-XI)
+
 [<img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" />](https://devpost.com/software/nos-album?ref_content=my-projects-tab&ref_feature=my_projects)
 
 "Nos" is an interesting, yet deliberate word. In many languages such as Spanish, French, and Portuguese, it means "our". This photo album app, "Nos Album", contains memories that is shared between 2 people: The person who you are today, and the person who you were in the past. This app acts as a medium between time so that the present you can look around and re-live the moments that once happened, ensuring that the nostalgic feeling burns within you.
